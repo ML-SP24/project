@@ -25,3 +25,4 @@ Maybe spliting is not very important as we can use for testing newer party speec
 ----
 ### Evaluation 
 Evaluation would be how accurate the model is predicting a plitical speech to be right or left. As we already know if the person speaking if a right or left leaning party leader. 
+----
