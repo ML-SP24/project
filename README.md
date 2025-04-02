@@ -10,7 +10,7 @@ The main idea is to have a model that gives a text by a german politican a score
 Input: Text 
 Output: 1 -> 0 = Far-right, 1 = Far-left. 
 The score will be a scale on the ploitical spectrum. 
-----
+
 ### Dataset
 I found this dataset https://zenodo.org/records/4542662
 It has all speechs in the German Parlament from 1949 until 2017.
