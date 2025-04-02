@@ -23,5 +23,5 @@ This will be a bit challenging but there is s a pattern in the text. Any speech 
 The dataset will be very big. So it could be splited and evaluated. 
 Maybe spliting is not very important as we can use for testing newer party speeches that are not in the dataset. 
 ----
-##### Evaluation 
+### Evaluation 
 Evaluation would be how accurate the model is predicting a plitical speech to be right or left. As we already know if the person speaking if a right or left leaning party leader. 
