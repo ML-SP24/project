@@ -14,7 +14,7 @@ The score will be a scale on the ploitical spectrum.
 ### Dataset
 I found this dataset https://zenodo.org/records/4542662
 It has all speechs in the German Parlament from 1949 until 2017.
-----
+--------
 ### Preprocessing 
 The data set need preproccing. I would need to extract each party name and party speaker into a new column and assign each party a score. (0 for righ and 1 for left and what in between) with their text. 
 This will be a bit challenging but there is s a pattern in the text. Any speech starts with "Name (party name): speech". Using Regular Expressions will help here. 
