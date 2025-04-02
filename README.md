@@ -2,8 +2,8 @@
 ### Final project in Machine Learning class at Parsons School of Design 2025 
 <br>
 
-## 01 
-### Poli-Spec AI
+
+### 01. Poli-Spec AI
 
 ### Idea 
 The main idea is to have a model that gives a text by a german politican a score. <br> 
